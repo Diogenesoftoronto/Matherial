@@ -1,5 +1,5 @@
 class Player
-  @@gamer = true
+  @@epic_gamer = true
   @name = 'Anon'
   @score = 0
   @turn = false
