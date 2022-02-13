@@ -1,3 +1,4 @@
+require 'player_'
 class Game
   @players = []
   @gaming = true
